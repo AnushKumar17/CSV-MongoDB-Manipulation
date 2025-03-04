@@ -1,0 +1,11 @@
+style_code,option_code,MRP,Brick,Sleeve
+SC001,OPT001,999,Shirt,Full Sleeve
+SC002,OPT002,1299,T-shirt,Half Sleeve
+SC003,OPT003,1499,Jeans,Sleeveless
+SC004,OPT001,899,Shirt,Full Sleeve
+SC005,OPT002,1199,T-shirt,Half Sleeve
+SC006,OPT004,1999,Trouser,Full Sleeve
+SC007,OPT003,1399,Jeans,Sleeveless
+SC008,OPT004,1799,Trouser,Half Sleeve
+SC009,OPT001,799,Shirt,Full Sleeve
+SC010,OPT002,1099,T-shirt,Half Sleeve
